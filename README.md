@@ -3,7 +3,7 @@
 🚀 **A modern, easy-to-use CAD file converter built with PythonOCC and PyQt5.**  
 Convert **STEP, IGES, BREP, and STL** files seamlessly with a **batch mode** and a sleek GUI.
 
-![GUI Preview](resources/PythonOCC-CAD-Converter-Preview.png)  
+![GUI Preview](resources/PythonOCC-CAD-Converter-Preview.PNG)  
 
 ---
 
