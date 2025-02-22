@@ -3,8 +3,7 @@
 🚀 **A modern, easy-to-use CAD file converter built with PythonOCC and PyQt5.**  
 Convert **STEP, IGES, BREP, and STL** files seamlessly with a **batch mode** and a sleek GUI.
 
-![GUI Preview](resources/gui_preview.png)  
-*(Add a screenshot of your GUI here!)*
+![GUI Preview](resources/PythonOCC-CAD-Converter-Preview.png)  
 
 ---
 
@@ -91,14 +90,6 @@ pyinstaller --onefile --windowed --add-data "resources/icon.png:resources" gui.p
 ```
 Your executable will be in the `dist/` folder.
 
----
-
-## 🛠️ **Planned Improvements**
-- ✅ **Batch conversion** (Already done!)
-- ⏳ **Drag & drop support**
-- ⏳ **Mac & Linux standalone builds**
-- ⏳ **In-app 3D file preview**
-- ⏳ **More file format support (OBJ, VRML, etc.)**
 
 ---
 
